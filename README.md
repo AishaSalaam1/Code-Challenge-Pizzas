@@ -8,7 +8,7 @@ Clone the repository:
 
 shell
 Copy code
-git clone <repository_url>
+git clone < https://github.com/AishaSalaam1/Code-Challenge-Pizzas >
 Install the dependencies:
 
 shell
