@@ -16,7 +16,7 @@ restaurant1 = Restaurant.create(name: 'Farah', address: '10th Street')
 restaurant2 = Restaurant.create(name: 'Siham', address: '10ka Iyada Xita')
 
 # Create RestaurantPizzas
-RestaurantPizza.create(restaurant_id: 1,pizza_id: 1, price: 20)
+RestaurantPizza.create(restaurant_id: 1, pizza_id: 1, price: 20)
 RestaurantPizza.create(restaurant_id: 1, pizza_id: 2, price: 18)
 RestaurantPizza.create(restaurant_id: 2, pizza_id: 1, price: 9)
 RestaurantPizza.create(restaurant_id: 2, pizza_id: 2, price: 25)
